@@ -1,0 +1,19 @@
+test_appearance_does_not_change_native_combat_pixels_masks_or_state (__main__.CharacterTests.test_appearance_does_not_change_native_combat_pixels_masks_or_state) ... ok
+test_appearance_selection_persists_after_reopening (__main__.CharacterTests.test_appearance_selection_persists_after_reopening) ... ok
+test_atari_option_keeps_the_exact_pixel_art (__main__.CharacterTests.test_atari_option_keeps_the_exact_pixel_art) ... ok
+test_complete_nonempty_transparent_art_for_every_theme_and_pose (__main__.CharacterTests.test_complete_nonempty_transparent_art_for_every_theme_and_pose) ... ok
+test_every_original_pose_has_hd_metadata (__main__.CharacterTests.test_every_original_pose_has_hd_metadata) ... ok
+test_fight_directions_do_not_change_character_choices (__main__.CharacterTests.test_fight_directions_do_not_change_character_choices) ... ok
+test_hd_image_is_continuous_at_landing_and_repeat_boundary (__main__.CharacterTests.test_hd_image_is_continuous_at_landing_and_repeat_boundary) ... ok
+test_invalid_settings_fall_back_to_original (__main__.CharacterTests.test_invalid_settings_fall_back_to_original) ... ok
+test_keyboard_cycles_only_its_own_player (__main__.CharacterTests.test_keyboard_cycles_only_its_own_player) ... ok
+test_mouse_selection_and_start_keep_chosen_characters (__main__.CharacterTests.test_mouse_selection_and_start_keep_chosen_characters) ... ok
+test_painting_cache_is_bounded (__main__.CharacterTests.test_painting_cache_is_bounded) ... ok
+test_preset_toggles_original_and_ryu_ken (__main__.CharacterTests.test_preset_toggles_original_and_ryu_ken) ... ok
+test_render_canvas_is_native_2560_by_1440 (__main__.CharacterTests.test_render_canvas_is_native_2560_by_1440) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 4.987s
+
+OK
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)

@@ -1,0 +1,24 @@
+test_all_analog_directions_and_diagonals (__main__.GamepadTests.test_all_analog_directions_and_diagonals) ... ok
+test_analog_deadzone_and_hysteresis_prevent_drift (__main__.GamepadTests.test_analog_deadzone_and_hysteresis_prevent_drift) ... ok
+test_disconnect_clears_input_without_renumbering_other_players (__main__.GamepadTests.test_disconnect_clears_input_without_renumbering_other_players) ... ok
+test_duplicate_add_events_do_not_duplicate_controller (__main__.GamepadTests.test_duplicate_add_events_do_not_duplicate_controller) ... ok
+test_each_pad_selects_its_own_character_once_per_direction_press (__main__.GamepadTests.test_each_pad_selects_its_own_character_once_per_direction_press) ... ok
+test_every_face_button_can_be_fire (__main__.GamepadTests.test_every_face_button_can_be_fire) ... ok
+test_fifth_pad_does_not_control_an_already_assigned_player (__main__.GamepadTests.test_fifth_pad_does_not_control_an_already_assigned_player) ... ok
+test_four_devices_have_four_independent_stable_player_slots (__main__.GamepadTests.test_four_devices_have_four_independent_stable_player_slots) ... ok
+test_four_raw_devices_also_keep_their_own_player (__main__.GamepadTests.test_four_raw_devices_also_keep_their_own_player) ... ok
+test_keyboard_and_pad_combine_without_cancelling_keyboard (__main__.GamepadTests.test_keyboard_and_pad_combine_without_cancelling_keyboard) ... ok
+test_mapped_dpad_has_priority_over_stick (__main__.GamepadTests.test_mapped_dpad_has_priority_over_stick) ... ok
+test_no_pads_preserves_all_keyboard_inputs (__main__.GamepadTests.test_no_pads_preserves_all_keyboard_inputs) ... ok
+test_pad_fire_up_repeats_real_game_jumps_and_release_stops (__main__.GamepadTests.test_pad_fire_up_repeats_real_game_jumps_and_release_stops) ... ok
+test_raw_usb_joystick_fallback_axes_hat_and_fire (__main__.GamepadTests.test_raw_usb_joystick_fallback_axes_hat_and_fire) ... ok
+test_reconnect_fills_free_slot_without_moving_other_pads (__main__.GamepadTests.test_reconnect_fills_free_slot_without_moving_other_pads) ... ok
+test_start_and_fire_edges_do_not_repeat_while_held (__main__.GamepadTests.test_start_and_fire_edges_do_not_repeat_while_held) ... ok
+test_start_game_and_pause_resume_from_pad (__main__.GamepadTests.test_start_game_and_pause_resume_from_pad) ... ok
+test_unplug_during_fight_pauses_and_keyboard_remains_available (__main__.GamepadTests.test_unplug_during_fight_pauses_and_keyboard_remains_available) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 1.138s
+
+OK
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)

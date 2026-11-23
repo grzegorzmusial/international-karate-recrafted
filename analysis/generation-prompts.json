@@ -1,0 +1,154 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "asset": "assets/hd/original-1.png",
+      "pose_reference": "analysis/references/poses-1.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Production fighting-game sprite atlas, exactly 4 columns by 3 rows (12 equal square cells), transparent alpha, requested 2048x1536. Image 1 is the exact pose-and-cell-layout blueprint: reproduce every limb direction, silhouette, relative size, position and facing in the corresponding cell, including very similar walking frames. Image 2 is STYLE/IDENTITY reference only. Detailed polished hand-painted 2.5D high-resolution game art, believable muscular anatomy, crisp antialiased contours, rich fabric folds, soft volume shading, restrained dark outline. Same anatomy/costume in every cell. One complete figure per occupied cell, transparent separation, no overlap into neighboring cells. No ground shadows, numbers, labels, borders, scene, watermark, effects or extra weapons. Actually transparent background; outside characters must be fully transparent. Character: the ORIGINAL International Karate fighter shown in image 1, remastered faithfully into detailed HD. Athletic adult man, short straight black hair, strong black eyebrows, light peach skin, traditional WHITE LONG-SLEEVED karate gi with black belt, bare hands and bare feet. No gloves, no headband, no spiky Street Fighter hairstyle. Preserve his original recognizable appearance and proportions. Image 2 is only the polished HD painting style, not character identity. All 12 cells occupied.",
+      "identity_or_style_reference": "assets/hd/ryu-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/original-2.png",
+      "pose_reference": "analysis/references/poses-2.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game sprite atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is the exact pose/layout blueprint; Image2 is identity/style reference only. Match EVERY cell's pose, limb directions, facing, scale and positioning. Same character proportions and costume throughout. Polished hand-painted 2.5D art with antialiased contours, fabric folds and anatomical shading. Full intact separated figures, no cell overlap, no labels/text/numbers, borders, shadows, floor, scenery or watermark. Fully transparent outside figures. ORIGINAL International Karate fighter: short black hair, strong brows, athletic adult, white LONG-SLEEVED gi, black belt, bare hands and feet; NO headband or gloves. Twelve figures including left-facing backward punches, low sweep, airborne kick, and two somersault rotations in last two cells. In last cell head points downward to the right under tucked knees.",
+      "identity_or_style_reference": "assets/hd/original-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/original-3.png",
+      "pose_reference": "analysis/references/poses-3.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is exact pose/layout blueprint; image2 is identity and painting style only. Match each cell's facing, limb directions, orientation, scale and position, including upside-down and horizontal figures. Same detailed character anatomy/costume in every frame. Beautiful polished hand-painted 2.5D game graphics, antialiased contours, natural shading and fabric folds. Intact complete figures separated within cells. No text, numbers, labels, borders, shadows, floor, scenery or watermark. Fully transparent alpha background. ORIGINAL International Karate fighter: short black hair, strong black brows, athletic adult, white LONG-SLEEVED traditional gi, black belt, bare hands/feet, no headband or gloves. ALL 12 cells occupied. Top cell1 UPSIDE DOWN head below feet, cell2 HORIZONTAL tuck head left and feet above/right, cell3 airborne knees tucked. Other poses are high kicks, left-facing low punches and low kicks. No upright substitutes for rotated poses.",
+      "identity_or_style_reference": "assets/hd/original-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/original-4.png",
+      "pose_reference": "analysis/references/poses-4.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is exact pose/layout blueprint; image2 is identity and painting style only. Match each cell's facing, limb directions, orientation, scale and position, including upside-down and horizontal figures. Same detailed character anatomy/costume in every frame. Beautiful polished hand-painted 2.5D game graphics, antialiased contours, natural shading and fabric folds. Intact complete figures separated within cells. No text, numbers, labels, borders, shadows, floor, scenery or watermark. Fully transparent alpha background. ORIGINAL International Karate fighter: short black hair, white LONG-SLEEVED traditional gi, black belt, bare hands/feet, no headband or gloves. ONLY EIGHT figures in first two rows, entire bottom row EMPTY transparent. Top row: two rotating roundhouse wind-ups, extended high roundhouse, backward airborne recoil. Middle: horizontal backward fall head LEFT and legs RIGHT raised; fall nearer floor; lying FLAT on back head left legs right; initial backward recoil. Preserve exact angles, not upright poses.",
+      "identity_or_style_reference": "assets/hd/original-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ryu-1.png",
+      "pose_reference": "analysis/references/poses-1.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Use case: stylized-concept. Production game asset: transparent 4-column by 3-row sprite atlas, 12 full-body sprites, requested 2048x1536 resolution. The attached reference is a POSE AND CELL-LAYOUT blueprint, not the desired art style. Replace EVERY karate man in its corresponding cell with the SAME recognizable RYU from Street Fighter: muscular Japanese adult, short spiky black hair, red headband with ties, white sleeveless frayed karate gi, black belt, red fighting gloves, bare feet. High-resolution polished hand-painted 2.5D fighting-game art, detailed face, expressive anatomy, folds, crisp antialiased contours and soft volume shading, restrained dark outline; not pixel art. Critical: copy the exact 12 different poses, limb directions, orientation, relative figure size, centering and placement from the reference, reading cells left to right then top to bottom. All faces point as in their source pose. Each cell must contain one complete intact figure, with ample transparent separation, no overlap into other cells. Same proportions and costume in every cell. No ground shadows, no scenery, no ground line, no numbers, no labels, no border, no watermark. Actually transparent alpha background. No glowing effects or extra weapons. Keep all 12 slots including very similar walking/standing frames. Match the reference cell grid exactly.",
+      "identity_or_style_reference": null,
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ryu-2.png",
+      "pose_reference": "analysis/references/poses-2.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Production fighting-game sprite atlas, exactly 4 columns by 3 rows (12 equal square cells), transparent alpha, requested 2048x1536. Image 1 is the exact pose-and-cell-layout blueprint: reproduce every limb direction, silhouette, relative size, position and facing in the corresponding cell, including very similar walking frames. Image 2 is STYLE/IDENTITY reference only. Detailed polished hand-painted 2.5D high-resolution game art, believable muscular anatomy, crisp antialiased contours, rich fabric folds, soft volume shading, restrained dark outline. Same anatomy/costume in every cell. One complete figure per occupied cell, transparent separation, no overlap into neighboring cells. No ground shadows, numbers, labels, borders, scene, watermark, effects or extra weapons. Actually transparent background; outside characters must be fully transparent. Character: exactly the same RYU from Street Fighter shown in image 2: short spiky black hair, red headband ties, white sleeveless frayed gi, black belt, red fighting gloves, bare feet. All 12 cells occupied. IMPORTANT bottom-right cell is tucked airborne forward somersault with head pointing down-right, not a normal crouch. Middle row contains LEFT-facing attacks; do not turn them right.",
+      "identity_or_style_reference": "assets/hd/ryu-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ryu-3.png",
+      "pose_reference": "analysis/references/poses-3.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Production transparent fighting-game sprite atlas, exactly 4 columns by 3 rows (12 equal square cells), requested 2048x1536. Image 1 is the POSE BLUEPRINT: reproduce each pose, facing, limb placement, relative figure size and cell position, reading left-to-right/top-to-bottom. Image 2 is the SAME CHARACTER AND ART STYLE reference only: preserve identity and costume exactly, never copy its old poses. Detailed polished hand-painted 2.5D HD fighting game art, crisp antialiased contours, rich fabric folds, natural muscles, soft volume shading. One complete intact figure per occupied cell; transparent separation; never overlap cells. No labels, text, numbers, scenery, floor line, ground shadow, border or watermark. Fully transparent alpha outside figures. RYU: spiky black hair, red headband/ties, white sleeveless frayed gi, black belt, red gloves, bare feet. Critical top row: cell1 is UPSIDE DOWN, HEAD BELOW FEET in tucked somersault; cell2 is HORIZONTAL rotated somersault HEAD LEFT and feet above/right; cell3 is airborne knees tucked facing right. Preserve these rotations, do not turn them into upright crouches. Other cells are high kicks, backward crouching punches and backward shin kicks, preserving source facing.",
+      "identity_or_style_reference": "assets/hd/ryu-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ryu-4.png",
+      "pose_reference": "analysis/references/poses-4.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game sprite atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is the exact pose/layout blueprint; Image2 is identity/style reference only. Match EVERY cell's pose, limb directions, facing, scale and positioning. Same character proportions and costume throughout. Polished hand-painted 2.5D art with antialiased contours, fabric folds and anatomical shading. Full intact separated figures, no cell overlap, no labels/text/numbers, borders, shadows, floor, scenery or watermark. Fully transparent outside figures. RYU: spiky black hair, red headband, white sleeveless frayed gi, black belt, red gloves, bare feet. ONLY EIGHT figures: top row four, middle row four. Bottom row completely EMPTY transparent. Top row cells1/2 are rotating roundhouse kick wind-ups, cell3 a high extended roundhouse, cell4 recoiling backward airborne from a hit. Middle row cell1 falling backward horizontally with head left and legs right raised, cell2 continuing horizontal fall closer to ground, cell3 lying FLAT ON BACK head left legs right, cell4 initial backward hit-recoil. Preserve the precise falling angles in blueprint, NOT crouching upright poses.",
+      "identity_or_style_reference": "assets/hd/ryu-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ken-1.png",
+      "pose_reference": "analysis/references/poses-1.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Production fighting-game sprite atlas, exactly 4 columns by 3 rows (12 equal square cells), transparent alpha, requested 2048x1536. Image 1 is the exact pose-and-cell-layout blueprint: reproduce every limb direction, silhouette, relative size, position and facing in the corresponding cell, including very similar walking frames. Image 2 is STYLE/IDENTITY reference only. Detailed polished hand-painted 2.5D high-resolution game art, believable muscular anatomy, crisp antialiased contours, rich fabric folds, soft volume shading, restrained dark outline. Same anatomy/costume in every cell. One complete figure per occupied cell, transparent separation, no overlap into neighboring cells. No ground shadows, numbers, labels, borders, scene, watermark, effects or extra weapons. Actually transparent background; outside characters must be fully transparent. Character: KEN MASTERS from Street Fighter, recognizable athletic adult with shoulder-length golden blond hair, red sleeveless frayed karate gi, black belt, brown padded fighting gloves and bare feet. Use image 2 only for the polished painting style; do NOT copy Ryu's dark hair, headband or white costume. All 12 cells occupied.",
+      "identity_or_style_reference": "assets/hd/ryu-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ken-2.png",
+      "pose_reference": "analysis/references/poses-2.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game sprite atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is the exact pose/layout blueprint; Image2 is identity/style reference only. Match EVERY cell's pose, limb directions, facing, scale and positioning. Same character proportions and costume throughout. Polished hand-painted 2.5D art with antialiased contours, fabric folds and anatomical shading. Full intact separated figures, no cell overlap, no labels/text/numbers, borders, shadows, floor, scenery or watermark. Fully transparent outside figures. KEN MASTERS: blond shoulder-length hair, red sleeveless frayed gi, black belt, brown gloves, bare feet. Twelve figures. Match LEFT-facing middle-row poses and bottom-left. Bottom-row cell2 is an airborne side kick, cells3/4 are midair forward somersault tucks, final head tilted down-right below knees.",
+      "identity_or_style_reference": "assets/hd/ken-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ken-3.png",
+      "pose_reference": "analysis/references/poses-3.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is exact pose/layout blueprint; image2 is identity and painting style only. Match each cell's facing, limb directions, orientation, scale and position, including upside-down and horizontal figures. Same detailed character anatomy/costume in every frame. Beautiful polished hand-painted 2.5D game graphics, antialiased contours, natural shading and fabric folds. Intact complete figures separated within cells. No text, numbers, labels, borders, shadows, floor, scenery or watermark. Fully transparent alpha background. KEN MASTERS: shoulder-length golden blond hair, red sleeveless frayed gi, black belt, brown fighting gloves, bare feet. ALL 12 cells occupied. Top-left is UPSIDE DOWN head BELOW feet, top cell2 HORIZONTAL rotated somersault head left and feet above/right, top cell3 tucked airborne. Preserve these rotations exactly, not upright crouches. Remaining cells: kicks, left-facing crouch punches and backward kicks as blueprint.",
+      "identity_or_style_reference": "assets/hd/ken-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    },
+    {
+      "asset": "assets/hd/ken-4.png",
+      "pose_reference": "analysis/references/poses-4.png",
+      "generator": "built-in imagegen",
+      "transparent_background": true,
+      "prompt": "Transparent HD fighting-game atlas, exactly 4 columns by 3 rows, 12 equal square cells, requested 2048x1536. Image1 is exact pose/layout blueprint; image2 is identity and painting style only. Match each cell's facing, limb directions, orientation, scale and position, including upside-down and horizontal figures. Same detailed character anatomy/costume in every frame. Beautiful polished hand-painted 2.5D game graphics, antialiased contours, natural shading and fabric folds. Intact complete figures separated within cells. No text, numbers, labels, borders, shadows, floor, scenery or watermark. Fully transparent alpha background. KEN MASTERS: blond hair, red sleeveless frayed gi, black belt, brown gloves, bare feet. ONLY EIGHT figures in first two rows, entire last row EMPTY transparent. Top row: two rotating roundhouse wind-ups, extended high roundhouse kick, backward airborne hit-recoil. Middle row: horizontal fall on back head LEFT legs RIGHT raised, fall nearer ground, lying FLAT on back head left legs right, initial backward recoil. Preserve all fallen body angles, NOT crouching or standing.",
+      "identity_or_style_reference": "assets/hd/ken-1.png",
+      "grid": [
+        4,
+        3
+      ]
+    }
+  ],
+  "render_canvas": [
+    2560,
+    1440
+  ],
+  "native_pose_count": 44
+}

@@ -1,0 +1,51 @@
+test_airborne_poses_remain_fully_visible_at_both_edges (__main__.FourPlayerTests.test_airborne_poses_remain_fully_visible_at_both_edges) ... ok
+test_all_four_key_groups (__main__.FourPlayerTests.test_all_four_key_groups) ... ok
+test_back_lunge_can_turn_to_another_opponent (__main__.FourPlayerTests.test_back_lunge_can_turn_to_another_opponent) ... ok
+test_both_backward_fire_attacks_leave_all_players_turned (__main__.FourPlayerTests.test_both_backward_fire_attacks_leave_all_players_turned) ... ok
+test_cannot_hit_behind_with_front_sweep (__main__.FourPlayerTests.test_cannot_hit_behind_with_front_sweep) ... ok
+test_controls_after_turn_use_the_new_facing (__main__.FourPlayerTests.test_controls_after_turn_use_the_new_facing) ... ok
+test_detached_airborne_shadow_is_visible_but_cannot_receive_a_hit (__main__.FourPlayerTests.test_detached_airborne_shadow_is_visible_but_cannot_receive_a_hit) ... ok
+test_direction_changes_only_at_the_end_of_a_completed_turning_move (__main__.FourPlayerTests.test_direction_changes_only_at_the_end_of_a_completed_turning_move) ... ok
+test_each_player_can_hit_each_other (__main__.FourPlayerTests.test_each_player_can_hit_each_other) ... ok
+test_each_repeated_flying_kick_can_score_again (__main__.FourPlayerTests.test_each_repeated_flying_kick_can_score_again) ... ok
+test_endless_scores_and_no_ai_or_bonus_states (__main__.FourPlayerTests.test_endless_scores_and_no_ai_or_bonus_states) ... ok
+test_every_native_animation_is_complete_rgba_without_background (__main__.FourPlayerTests.test_every_native_animation_is_complete_rgba_without_background) ... ok
+test_every_player_walks_through_every_other_player_both_directions (__main__.FourPlayerTests.test_every_player_walks_through_every_other_player_both_directions) ... ok
+test_exactly_overlapping_players_all_keep_moving (__main__.FourPlayerTests.test_exactly_overlapping_players_all_keep_moving) ... ok
+test_fall_starts_upright_and_contains_all_collapse_phases (__main__.FourPlayerTests.test_fall_starts_upright_and_contains_all_collapse_phases) ... ok
+test_flip_body_is_complete_in_every_frame (__main__.FourPlayerTests.test_flip_body_is_complete_in_every_frame) ... ok
+test_forward_then_backward_flip_has_no_accumulated_teleport (__main__.FourPlayerTests.test_forward_then_backward_flip_has_no_accumulated_teleport) ... ok
+test_four_move_independently_together (__main__.FourPlayerTests.test_four_move_independently_together) ... ok
+test_fullscreen_is_default_pause_and_menu_do_not_change_scores (__main__.FourPlayerTests.test_fullscreen_is_default_pause_and_menu_do_not_change_scores) ... ok
+test_held_backward_diagonal_does_not_start_a_front_kick_after_turn (__main__.FourPlayerTests.test_held_backward_diagonal_does_not_start_a_front_kick_after_turn) ... ok
+test_held_fire_up_repeats_for_all_players_in_both_facings (__main__.FourPlayerTests.test_held_fire_up_repeats_for_all_players_in_both_facings) ... ok
+test_held_flips_repeat_without_disappearing (__main__.FourPlayerTests.test_held_flips_repeat_without_disappearing) ... ok
+test_held_flying_kick_always_lands (__main__.FourPlayerTests.test_held_flying_kick_always_lands) ... ok
+test_knockback_follows_impact_even_when_hit_from_behind (__main__.FourPlayerTests.test_knockback_follows_impact_even_when_hit_from_behind) ... ok
+test_low_and_high_attacks_select_their_reaction (__main__.FourPlayerTests.test_low_and_high_attacks_select_their_reaction) ... ok
+test_miss_out_of_range (__main__.FourPlayerTests.test_miss_out_of_range) ... ok
+test_native_contact_to_floor_delay_is_preserved_frame_by_frame (__main__.FourPlayerTests.test_native_contact_to_floor_delay_is_preserved_frame_by_frame) ... ok
+test_native_flip_distance_is_preserved_in_both_facings (__main__.FourPlayerTests.test_native_flip_distance_is_preserved_in_both_facings) ... ok
+test_no_position_or_image_jump_when_landing (__main__.FourPlayerTests.test_no_position_or_image_jump_when_landing) ... ok
+test_pass_through_does_not_disable_attack_collisions (__main__.FourPlayerTests.test_pass_through_does_not_disable_attack_collisions) ... ok
+test_reaction_does_not_award_repeated_points_during_collapse (__main__.FourPlayerTests.test_reaction_does_not_award_repeated_points_during_collapse) ... ok
+test_recovery_has_intermediate_poses_before_standing (__main__.FourPlayerTests.test_recovery_has_intermediate_poses_before_standing) ... ok
+test_releasing_diagonal_finishes_current_flip_and_stops (__main__.FourPlayerTests.test_releasing_diagonal_finishes_current_flip_and_stops) ... ok
+test_releasing_fire_up_finishes_current_jump_and_stops_repeating (__main__.FourPlayerTests.test_releasing_fire_up_finishes_current_jump_and_stops_repeating) ... ok
+test_releasing_then_pressing_fire_down_can_turn_again (__main__.FourPlayerTests.test_releasing_then_pressing_fire_down_can_turn_again) ... ok
+test_repeated_diagonal_fire_for_all_players_and_both_facings (__main__.FourPlayerTests.test_repeated_diagonal_fire_for_all_players_and_both_facings) ... ok
+test_repeated_flip_landing_is_continuous_and_native_rhythm (__main__.FourPlayerTests.test_repeated_flip_landing_is_continuous_and_native_rhythm) ... ok
+test_repeated_flying_kicks_stay_visible_at_both_edges (__main__.FourPlayerTests.test_repeated_flying_kicks_stay_visible_at_both_edges) ... ok
+test_roundhouse_preserves_facing (__main__.FourPlayerTests.test_roundhouse_preserves_facing) ... ok
+test_simultaneous_attacks_are_not_order_dependent (__main__.FourPlayerTests.test_simultaneous_attacks_are_not_order_dependent) ... ok
+test_sweep_hits_both_stances (__main__.FourPlayerTests.test_sweep_hits_both_stances) ... ok
+test_sweep_under_airborne_opponent_does_not_hit_the_shadow (__main__.FourPlayerTests.test_sweep_under_airborne_opponent_does_not_hit_the_shadow) ... ok
+test_two_separate_pairs_fight_simultaneously (__main__.FourPlayerTests.test_two_separate_pairs_fight_simultaneously) ... ok
+test_two_walking_players_swap_sides (__main__.FourPlayerTests.test_two_walking_players_swap_sides) ... ok
+test_victim_falls_gets_up_and_stays_human (__main__.FourPlayerTests.test_victim_falls_gets_up_and_stays_human) ... ok
+
+----------------------------------------------------------------------
+Ran 45 tests in 3.110s
+
+OK
+pygame-ce 2.5.8 (SDL 2.32.10, Python 3.14.3)
